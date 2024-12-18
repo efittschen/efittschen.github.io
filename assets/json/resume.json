@@ -2,11 +2,11 @@
   "basics": {
     "name": "Elisath Fittschen",
     "image": "",
-    "email": "elisabeth dot fittschen at gmail dot com",
+    "email": "elisabeth.fittschen@studium.uni-hamburg.de",
     "profiles": [
       {
         "network": "Bluesky",
-        "username": "AlbertEinstein",
+        "username": "Efi3",
         "url": "https://bsky.app/profile/efi3.bsky.social"
       }
     ]
@@ -78,16 +78,17 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computer Science",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "C++",
+        "C",
+        "React",
+        "Slurm",
+        "Git",
+        "Docker"
       ]
     }
   ],
@@ -105,38 +106,64 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Natural Language Processing",
+        "Network Security"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Interactive Annotation Data Visualization Tool",
+      "summary": "A tool that allows interactive user manipulation of the embedding space.",
+      "highlights": ["Supervised by Dr. Cris Biemann and Tim Fischer"],
+      "startDate": "2023-05-01",
+      "endDate": "2023-10-31",
+      "url": ""
+    },
+    {
+      "name": "The Language of Zelda",
+      "summary": "ChatGPT agent based language learning game prototype.",
+      "highlights": ["Supervised by Dr. Frank Steinicke and Sukran Karaosmanoglu"],
+      "startDate": "2023-05-01",
+      "endDate": "2023-11-30",
+      "url": ""
+    },
+    {
+      "name": "Historical Language Modeling",
+      "summary": "Efficient pretraining of small language models for historical data isolation.",
+      "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Craig Messner"],
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Legal Latin Handwriting Transcription",
+      "summary": "A handwriting transcriber for the low-resource field of Latin legal protocol.",
+      "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Hale Sirin"],
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Solving NYT Connection",
+      "summary": "Evaluating a variety of approaches on the well-known New York Times Connection Puzzle.",
+      "highlights": ["Supervised by Dr. Tom Lippincott"],
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Continuous Time Embedding Topic Model",
+      "summary": "Adaptation of the dynamic Embedding Topic Model (DETM) to handle continuous time data.",
+      "highlights": ["Supervised by Dr. Tom Lippincott"],
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "url": ""
     }
   ]
+  
 }
