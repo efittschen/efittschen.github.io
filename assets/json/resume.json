@@ -14,7 +14,7 @@
     "work": [
       {
         "name": "Kunz Laboratory, Washington State University",
-        "position": "Student Researcher (unpaid internship)",
+        "position": "Student Researcher",
         "url": "",
         "startDate": "2016-01-01",
         "endDate": "2017-01-01",
@@ -27,8 +27,7 @@
         "url": "",
         "startDate": "2018-06-01",
         "endDate": "2019-06-01",
-        "summary": "Working on Network Automatisation using tools like Ansible, Napalm, and Netmiko.",
-        "highlights": ["Network Automatisation"]
+        "summary": "Working on Network automation using tools like Ansible, Napalm, and Netmiko."
       },
       {
         "name": "TU Clausthal Mathematics Department",
@@ -104,7 +103,15 @@
         "React",
         "Slurm",
         "Git",
-        "Docker"
+        "Docker",
+        "PyTorch",
+        "keras",
+        "scikit-learn",
+        "NLTK",
+        "SpaCy",
+        "Gensim",
+        "Pandas",
+        "NumPy"
       ]
     }
   ],
