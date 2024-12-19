@@ -11,33 +11,49 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+    "work": [
+      {
+        "name": "Kunz Laboratory, Washington State University",
+        "position": "Student Researcher (unpaid internship)",
+        "url": "",
+        "startDate": "2016-01-01",
+        "endDate": "2017-01-01",
+        "summary": "Introducing Mutation into Plant, verifying the process's success, and assisting in current lab projects.",
+        "highlights": ["Verifying Mutation Success"]
+      },
+      {
+        "name": "TU Clausthal Datacenter",
+        "position": "Student Worker",
+        "url": "",
+        "startDate": "2018-06-01",
+        "endDate": "2019-06-01",
+        "summary": "Working on Network Automatisation using tools like Ansible, Napalm, and Netmiko.",
+        "highlights": ["Network Automatisation"]
+      },
+      {
+        "name": "TU Clausthal Mathematics Department",
+        "position": "Tutor for Math I/II for Engineers",
+        "url": "",
+        "startDate": "2018-01-01",
+        "endDate": "2019-01-01",
+        "summary": "Leading tutorials every week, grading homework and exams for engineering students.",
+        "highlights": ["Grading Exams", "Leading Tutorials"]
+      },
+      {
+        "name": "TU Clausthal Computer Science Department",
+        "position": "Tutor for Computer Science II/III",
+        "url": "",
+        "startDate": "2019-01-01",
+        "endDate": "2022-01-01",
+        "summary": "Leading tutorials every two weeks, grading homework and exams, and designing quiz questions in theoretical computer science.",
+        "highlights": ["Grading Exams", "Designing Quiz Questions"]
+      }
+    ],
+  
   "education": [
     {
       "institution": "Clausthal University of Technology",
-      "location": "Clausthal-Zellerfeld, Germany",
+      "location": "Clausthal-Z., Germany",
       "url": "https://www.tu-clausthal.de/en/",
       "area": "Computer Science",
       "studyType": "BS",
