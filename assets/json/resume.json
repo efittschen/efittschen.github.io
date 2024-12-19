@@ -16,8 +16,8 @@
         "name": "Kunz Laboratory, Washington State University",
         "position": "Student Researcher",
         "url": "",
-        "startDate": "2016-01-01",
-        "endDate": "2017-01-01",
+        "startDate": "2016",
+        "endDate": "2017",
         "summary": "Introducing Mutation into Plant, verifying the process's success, and assisting in current lab projects.",
         "highlights": ["Verifying Mutation Success"]
       },
@@ -25,16 +25,16 @@
         "name": "TU Clausthal Datacenter",
         "position": "Student Worker",
         "url": "",
-        "startDate": "2018-06-01",
-        "endDate": "2019-06-01",
+        "startDate": "2018",
+        "endDate": "2019",
         "summary": "Working on Network automation using tools like Ansible, Napalm, and Netmiko."
       },
       {
         "name": "TU Clausthal Mathematics Department",
         "position": "Tutor for Math I/II for Engineers",
         "url": "",
-        "startDate": "2018-01-01",
-        "endDate": "2019-01-01",
+        "startDate": "2018",
+        "endDate": "2019",
         "summary": "Leading tutorials every week, grading homework and exams for engineering students.",
         "highlights": ["Grading Exams", "Leading Tutorials"]
       },
@@ -42,8 +42,8 @@
         "name": "TU Clausthal Computer Science Department",
         "position": "Tutor for Computer Science II/III",
         "url": "",
-        "startDate": "2019-01-01",
-        "endDate": "2022-01-01",
+        "startDate": "2019",
+        "endDate": "2022",
         "summary": "Leading tutorials every two weeks, grading homework and exams, and designing quiz questions in theoretical computer science.",
         "highlights": ["Grading Exams", "Designing Quiz Questions"]
       }
@@ -144,7 +144,7 @@
       "summary": "A tool that allows interactive user manipulation of the embedding space.",
       "highlights": ["Supervised by Dr. Cris Biemann and Tim Fischer"],
       "startDate": "2023-05-01",
-      "endDate": "2023-10-31",
+      "endDate": "2023-10",
       "url": ""
     },
     {
@@ -152,14 +152,14 @@
       "summary": "ChatGPT agent based language learning game prototype.",
       "highlights": ["Supervised by Dr. Frank Steinicke and Sukran Karaosmanoglu"],
       "startDate": "2023-05-01",
-      "endDate": "2023-11-30",
+      "endDate": "2023-11",
       "url": ""
     },
     {
       "name": "Historical Language Modeling",
       "summary": "Efficient pretraining of small language models for historical data isolation.",
       "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Craig Messner"],
-      "startDate": "2024-11-01",
+      "startDate": "2024-11",
       "endDate": "",
       "url": ""
     },
@@ -167,7 +167,7 @@
       "name": "Legal Latin Handwriting Transcription",
       "summary": "A handwriting transcriber for the low-resource field of Latin legal protocol.",
       "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Hale Sirin"],
-      "startDate": "2024-10-01",
+      "startDate": "2024-10",
       "endDate": "",
       "url": ""
     },
@@ -175,7 +175,7 @@
       "name": "Solving NYT Connection",
       "summary": "Evaluating a variety of approaches on the well-known New York Times Connection Puzzle.",
       "highlights": ["Supervised by Dr. Tom Lippincott"],
-      "startDate": "2024-11-01",
+      "startDate": "2024-11",
       "endDate": "",
       "url": ""
     },
@@ -183,7 +183,7 @@
       "name": "Continuous Time Embedding Topic Model",
       "summary": "Adaptation of the dynamic Embedding Topic Model (DETM) to handle continuous time data.",
       "highlights": ["Supervised by Dr. Tom Lippincott"],
-      "startDate": "2024-09-01",
+      "startDate": "2024-09",
       "endDate": "",
       "url": ""
     }
