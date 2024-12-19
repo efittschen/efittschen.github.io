@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper "AnnoPlot: Interactive Visualizations of Text Annotations" has been accepted for publication! :page_facing_up: :tada: Read more about our work [here](https://aclanthology.org/2024.eacl-demo.12/).
+First paper ["AnnoPlot: Interactive Visualizations of Text Annotations"](https://aclanthology.org/2024.eacl-demo.12/) has been accepted for publication! :page_facing_up: :tada:
 

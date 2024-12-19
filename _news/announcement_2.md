@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We received Honorable Mentions at the Student Game Competition CHI 2024! So proud of our team. :trophy: :sparkles: Check out the details [here](https://chi2024.acm.org/).
+We received Honorable Mentions at the Student Game Competition CHI 2024! Check out the details [here](https://chi2024.acm.org/).
