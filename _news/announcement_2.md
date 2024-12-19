@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We received Honorable Mentions at the Student Game Competition CHI 2024!:tada::tada: Check out the details [here](https://chi2024.acm.org/).
+We received [Honorable Mentions](https://efittschen.github.io/assets/pdf/honorable_mentions.pdf) at the Student Game Competition CHI 2024!:tada::tada: Check out the details [here](https://chi2024.acm.org/).
