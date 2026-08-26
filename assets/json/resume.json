@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Elisath Fittschen",
+    "name": "Elisabeth Fittschen",
     "image": "",
     "email": "elisabeth.fittschen@studium.uni-hamburg.de",
     "profiles": [
@@ -11,60 +11,28 @@
       }
     ]
   },
-    "work": [
-      {
-        "name": "Kunz Laboratory, Washington State University",
-        "position": "Student Researcher",
-        "url": "",
-        "startDate": "2016",
-        "endDate": "2017",
-        "summary": "Introducing mutations into plants, verifying the success of the process, and assisting in current lab projects.",
-        "highlights": ["Verifying Mutation Success"]
-      },
-      {
-        "name": "TU Clausthal Datacenter",
-        "position": "Student Worker",
-        "url": "",
-        "startDate": "2018",
-        "endDate": "2019",
-        "summary": "Working on network automation using tools like Ansible, Napalm, and Netmiko."
-      },
-      {
-        "name": "TU Clausthal Mathematics Department",
-        "position": "Tutor for Math I/II for Engineers",
-        "url": "",
-        "startDate": "2018",
-        "endDate": "2019",
-        "summary": "Leading tutorials every week, grading homework and exams for engineering students.",
-        "highlights": ["Grading Exams", "Leading Tutorials"]
-      },
-      {
-        "name": "TU Clausthal Computer Science Department",
-        "position": "Tutor for Computer Science II/III",
-        "url": "",
-        "startDate": "2019",
-        "endDate": "2022",
-        "summary": "Leading tutorials every two weeks, grading homework and exams, and designing quiz questions in theoretical computer science.",
-        "highlights": ["Grading Exams", "Designing Quiz Questions"]
-      }
-    ],
-  
   "education": [
     {
-      "institution": "Clausthal University of Technology",
-      "location": "Clausthal-Z., Germany",
-      "url": "https://www.tu-clausthal.de/en/",
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD, USA",
+      "url": "https://www.clsp.jhu.edu/",
       "area": "Computer Science",
-      "studyType": "BS",
-      "endDate": "2023-08"
+      "studyType": "PhD",
+      "startDate": "2025"
     },
     {
       "institution": "University of Hamburg",
       "location": "Hamburg, Germany",
       "url": "https://www.inf.uni-hamburg.de/en/",
       "area": "Computer Science",
-      "studyType": "MS",
-      "startDate": "2022-10"
+      "studyType": "MS"
+    },
+    {
+      "institution": "Clausthal University of Technology",
+      "location": "Clausthal-Z., Germany",
+      "url": "https://www.tu-clausthal.de/en/",
+      "area": "Computer Science",
+      "studyType": "BS"
     }
   ],
   "awards": [
@@ -88,6 +56,13 @@
       "publisher": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24)",
       "releaseDate": "2024-05-11",
       "url": "https://dl.acm.org/doi/10.1145/3613905.3648107",
+      "summary": ""
+    },
+    {
+      "name": "Pretraining Language Models for Diachronic Linguistic Change Discovery",
+      "publisher": "Findings of the Association for Computational Linguistics: EACL 2026",
+      "releaseDate": "2026-03",
+      "url": "https://aclanthology.org/2026.findings-eacl.241/",
       "summary": ""
     }
   ],
@@ -142,7 +117,9 @@
     {
       "name": "Interactive Annotation Data Visualization Tool",
       "summary": "A tool that allows interactive user manipulation of the embedding space.",
-      "highlights": ["Supervised by Dr. Cris Biemann and Tim Fischer"],
+      "highlights": [
+        "Supervised by Dr. Cris Biemann and Tim Fischer"
+      ],
       "startDate": "2023-05-01",
       "endDate": "2023-10",
       "url": ""
@@ -150,7 +127,9 @@
     {
       "name": "The Language of Zelda",
       "summary": "ChatGPT agent based language learning game prototype.",
-      "highlights": ["Supervised by Dr. Frank Steinicke and Sukran Karaosmanoglu"],
+      "highlights": [
+        "Supervised by Dr. Frank Steinicke and Sukran Karaosmanoglu"
+      ],
       "startDate": "2023-05-01",
       "endDate": "2023-11",
       "url": ""
@@ -158,35 +137,12 @@
     {
       "name": "Historical Language Modeling",
       "summary": "Efficient pretraining of small language models for historical data isolation.",
-      "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Craig Messner"],
+      "highlights": [
+        "Supervised by Dr. Tom Lippincott and Dr. Craig Messner"
+      ],
       "startDate": "2024-11",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Legal Latin Handwriting Transcription",
-      "summary": "A handwriting transcriber for the low-resource field of Latin legal protocol.",
-      "highlights": ["Supervised by Dr. Tom Lippincott and Dr. Hale Sirin"],
-      "startDate": "2024-10",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Solving NYT Connection",
-      "summary": "Evaluating a variety of approaches on the well-known New York Times Connection Puzzle.",
-      "highlights": ["Supervised by Dr. Tom Lippincott"],
-      "startDate": "2024-11",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Continuous Time Embedding Topic Model",
-      "summary": "Adaptation of the dynamic Embedding Topic Model (DETM) to handle continuous time data.",
-      "highlights": ["Supervised by Dr. Tom Lippincott"],
-      "startDate": "2024-09",
-      "endDate": "",
-      "url": ""
+      "endDate": "2026-03",
+      "url": "https://aclanthology.org/2026.findings-eacl.241/"
     }
   ]
-  
 }

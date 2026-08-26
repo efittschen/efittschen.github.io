@@ -16,8 +16,6 @@ social: true # includes social icons at the bottom of the page
 
 
 
-Hello, my name is Elisabeth and I will be applying to CS (NLP) PhD positions in the 2025 cycle. 
+Hi! My name is Elisabeth and I am a second-year PhD student in the [Johns Hopkins Center for Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP) under the supervision of Dr. [Tom Lippincott](https://engineering.jhu.edu/faculty/thomas-lippincott/). Prior to this, I completed a Bachelor's in Computer Science at the [Clausthal University of Technology](https://www.tu-clausthal.de/en/), and a Master's at the [University of Hamburg](https://www.uni-hamburg.de/en.html).
 
-I am a Master's student at the [University of Hamburg](https://www.uni-hamburg.de/en.html) ⚓, and am currently a visiting student at the [Johns Hopkins Centre for Language and Speech Processing](https://www.clsp.jhu.edu/) (CLSP) under the supervision of Dr. [Tom Lippincott](https://engineering.jhu.edu/faculty/thomas-lippincott/). Prior to this, I completed a Bachelor's of Computer Science at the [Technical University of Clausthal](https://www.tu-clausthal.de/en/), where my thesis focused on real time computer graphics optimization (transparency rendering in raytracing).
-
-My research interests lie in the efficiency of modern language models and questions surrounding how to best extend their recursive reasoning abilities.
+My research interests lie in the efficiency of modern language models and questions surrounding how generalization biases are impacted by architecture.
